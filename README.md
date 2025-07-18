@@ -1,1 +1,23 @@
-# MT
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>部活動紹介</title>
+</head>
+<body> 
+<h1>部活動紹介</h1>
+    <div class="undou">
+         <h2>運動部</h2>
+         <img src="" alt="">
+         <p>みんなで運動をする部活です<br>毎週月曜日の13時から小倉駅の裏にある公園まで行って<br>みんなで運動をします！</p>
+    </div> 
+    
+<div class="irasto">
+     <h2>イラスト部</h2>
+      <img src="" alt="イラスト部ポスター">
+      <p>みんなでイラストを描いたりします！<br>デジタル、アナログ、水彩、なんでもOK！<br>絵が好きな人も苦手な人も大歓迎！</p>
+        
+        
+        
+          
+   
